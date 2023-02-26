@@ -1,0 +1,1 @@
+This folder contains personal projects and/or experiments using javascript.
