@@ -1,2 +1,3 @@
-This folder contains small  projects that were prompted in codeacademy.
-Additional Projects can be located in the subfolder labeled personal projects.
+This folder contains projects built using javascript.
+Code that was prompted from code academy projects is stored in the subfolder labeled codeAcademyCode.
+Additional projects can be located in the subfolder labeled personalProjects.
